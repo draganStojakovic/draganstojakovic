@@ -1,4 +1,15 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://draganstojakovic.github.io/'
 languageCode = 'en-us'
 title = "Dragan Stojaković's profile"
 theme = 'PaperMod'
+
+[menu]
+    [[menu.main]]
+    name = "Contact"
+    URL = "/contact"
+    weight = 10
+
+    [[menu.main]]
+    name = "Documents"
+    URL = "/documents"
+    weight = 10
