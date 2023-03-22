@@ -33,5 +33,6 @@ Amongst programing as a hobby, I am also a huge free software advocate, I like t
 
 - misc
   - linux administration 🐧
-
+  - jest
+  
 ---
