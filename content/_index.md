@@ -6,6 +6,8 @@ My name is Dragan Stojaković, I am from Novi Sad, Serbia, where I was born and 
 
 Amongst programing as a hobby, I am also a huge free software advocate, I like to educate people and be educated, I am a tea enthusiasts and I like to be in nature every chance I get.
 
+Bellow is my skill set, please take a look. I enjoy building apps with javascript based technologies, like Node and MongoDB, so MERN stack is where I am at, but I am no stranger to LAMP stack as well. 
+
 ## 🤹🏻 Skills
 
 ---
@@ -31,9 +33,16 @@ Amongst programing as a hobby, I am also a huge free software advocate, I like t
   - SQLite
   - recfiles
 
-- misc
-  - linux administration 🐧
+- testing
+
   - jest
   - Postman
-  
+
+- misc
+
+  - linux administration 🐧
+  - solid principles
+  - design patterns
+  - data spreadsheets
+
 ---
