@@ -40,6 +40,7 @@ Bellow is my skill set, please take a look. I enjoy building apps with javascrip
 
 - misc
 
+  - GIT
   - linux administration 🐧
   - solid principles
   - design patterns
