@@ -24,6 +24,7 @@ Bellow is my skill set, please take a look. I enjoy building apps with javascrip
   - React.js
   - Node.js (a runtime)
   - Express.js
+  - Redux
   - Laravel
 
 - databases
